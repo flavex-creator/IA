@@ -1,0 +1,11 @@
+Algoritmo media;
+Variável inteiro;
+valor1,valor2, media:real;
+Início
+Escrever ("digitar o 1 valor");
+Ler (valor1);
+Escrever ("digitar o 2 valor");
+Ler (valor2) ;
+media = (valor1+valor2)/2;
+escrever("A media é ", media);
+Fim.
